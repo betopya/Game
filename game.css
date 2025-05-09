@@ -1,0 +1,37 @@
+
+
+h1{
+  position: fixed;
+      top: 15%;
+     
+}
+body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .game {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 0 30px #983ee2;
+    padding: 3% ;
+  }
+  
+  button{
+    padding: 10px 20px;
+    background-color: #983ee2;
+    color: white;
+    border-radius: 10px;
+    border: solid;
+  }
+  
+  button:hover {
+    background-color: #ffffff;
+    color: #983ee2;
+    border-color: #983ee2;
+  }
+  
