@@ -1,5 +1,4 @@
 
-
 document.getElementById("rock").addEventListener("click", function() {
   gameResult("rock");
 });
@@ -51,7 +50,5 @@ switch (true) {
     break;
 }
 
-
- 
   document.getElementById("result").textContent = result;
 }
